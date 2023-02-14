@@ -65,4 +65,5 @@ The configuration of dwm is done by creating a custom `config.h` (a copy of `con
 
 These are the [patches](https://dwm.suckless.org/patches/) that I've applied to my build:
 - [centerewindowname](https://dwm.suckless.org/patches/centeredwindowname/dwm-centeredwindowname-20200723-f035e1e.diff)
+- [hide vacant tags](https://dwm.suckless.org/patches/hide_vacant_tags/dwm-hide_vacant_tags-6.3.diff)
 
