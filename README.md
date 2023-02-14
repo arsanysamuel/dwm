@@ -64,5 +64,5 @@ The configuration of dwm is done by creating a custom `config.h` (a copy of `con
 ## Patches
 
 These are the [patches](https://dwm.suckless.org/patches/) that I've applied to my build:
-- TODO
+- [centerewindowname](https://dwm.suckless.org/patches/centeredwindowname/dwm-centeredwindowname-20200723-f035e1e.diff)
 
