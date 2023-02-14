@@ -68,4 +68,5 @@ These are the [patches](https://dwm.suckless.org/patches/) that I've applied to 
 - [hide vacant tags](https://dwm.suckless.org/patches/hide_vacant_tags/dwm-hide_vacant_tags-6.3.diff)
 - [removeborder](https://dwm.suckless.org/patches/removeborder/dwm-removeborder-20220626-d3f93c7.diff)
 - [vanitygaps](https://dwm.suckless.org/patches/vanitygaps/dwm-vanitygaps-20200610-f09418b.diff)
+- [swallow](https://dwm.suckless.org/patches/swallow/dwm-swallow-6.3.diff)
 
